@@ -1,4 +1,5 @@
-﻿using Discount.Grpc.Entities;
+﻿using AutoMapper;
+using Discount.Grpc.Entities;
 using Discount.Grpc.Protos;
 using Discount.Grpc.Repositories;
 using Grpc.Core;
